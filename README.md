@@ -1,4 +1,4 @@
-# Taam Cloud Python API library
+# [Taam Cloud](https://taam.cloud/) Python API library
 
 [![PyPI version](https://img.shields.io/pypi/v/taam_cloud.svg)](https://pypi.org/project/taam_cloud/)
 
