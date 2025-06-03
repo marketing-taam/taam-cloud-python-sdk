@@ -10,7 +10,7 @@ It is generated with [Stainless](https://www.stainless.com/).
 
 ## Documentation
 
-The REST API documentation can be found on [docs.taam-cloud.com](https://docs.taam-cloud.com). The full API of this library can be found in [api.md](api.md).
+The REST API documentation can be found on [docs.taam-cloud.com](https://docs.taam.cloud/). The full API of this library can be found in [api.md](api.md).
 
 ## Installation
 
@@ -372,3 +372,4 @@ Python 3.8 or higher.
 ## Contributing
 
 See [the contributing documentation](./CONTRIBUTING.md).
+visit [Taam Cloud](https://taam.cloud/)for more information or [Sign up here](https://app.taam.cloud/).
